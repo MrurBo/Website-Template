@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Kokopelli Plant Medicine
+# {{ site.title }}
 
-[temp](/category/rape)
+This is an example of contents. Edit index.md in src/ to change this text.

@@ -1,13 +1,12 @@
-title: Kokopelli
-description: Kokopelli Plant Medicine
+title: Website-Template
+description: A Template Website
 baseurl: "" 
-url: "https://kokopelli.ie" 
-description: "Kokopelli Plant Medicine Rapé and Accessory Shop"
+url: "https://mrurbo.github.io/website-template/" 
 ogimage: "https://placehold.co/1200x630"
 
 author:
-    name: Rytis Nefiodovas
-    email: rytisnefiodovas@icloud.com
+    name: John Doe
+    email: johndoe@example.com
 
 
 # Build settings
