@@ -1,7 +1,6 @@
 title: Website-Template
 description: A Template Website
-baseurl: "" 
-baseurl: "/website-template/" 
+baseurl: "/Website-Template/" # Case Sensitive 
 ogimage: "https://placehold.co/1200x630"
 
 author:
@@ -28,6 +27,7 @@ pagination:
 sass:
     style: compressed
     sass_dir: _sass
+
 collections:
   products:
     output: true
