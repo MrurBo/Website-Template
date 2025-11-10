@@ -9,5 +9,6 @@ h1, h2, h3, p, a {
 }
 
 h1, h2, h3 {
+  padding-bottom: 3px;
   border-bottom: 1px solid var(--bg-muted);
 }
