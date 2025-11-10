@@ -1,6 +1,19 @@
 # Template website
+[![MrurBo - Website-Template](https://img.shields.io/static/v1?label=MrurBo&message=Website-Template&color=blue&logo=github)](https://github.com/MrurBo/Website-Template "Go to GitHub repo")
+[![stars - Website-Template](https://img.shields.io/github/stars/MrurBo/Website-Template?style=social)](https://github.com/MrurBo/Website-Template)
+[![forks - Website-Template](https://img.shields.io/github/forks/MrurBo/Website-Template?style=social)](https://github.com/MrurBo/Website-Template)
 
-This template is a template that combines scss with Jekyll. This will be used for all my future websites.
+[![Build and Deploy Jekyll Site](https://github.com/MrurBo/Website-Template/workflows/Build%20and%20Deploy%20Jekyll%20Site/badge.svg)](https://github.com/MrurBo/Website-Template/actions?query=workflow:"Build+and+Deploy+Jekyll+Site")
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - Website-Template](https://img.shields.io/github/issues/MrurBo/Website-Template)](https://github.com/MrurBo/Website-Template/issues)
+
+This is a Jekyll Template website that combines SCSS + Jekyll.
+
+<div align="center">
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://mrurbo.github.io/Website-Template/)
+
+</div>
 
 ## Cloning
 Run:
@@ -31,3 +44,7 @@ Run:
 * Test: `jekyll serve`
 * Build: `jekyll build`
 * Deploy: Automatically via github actions.
+
+## License
+
+Released under [MIT](/LICENSE) by [@MrurBo](https://github.com/MrurBo).
