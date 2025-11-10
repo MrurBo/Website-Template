@@ -12,7 +12,7 @@ layout: default
 5. In github, after the action completes, go to your repository, `settings -> pages` and set `Source` to `Deploy from a branch`. Then under it, set Branch to `gh-pages` and the folder to `/ (root)`. Then click save.
 
 ### Screenshot of github pages configuration:
-![Screenshot of github pages configuration](/images/ss.png)
+![Screenshot of github pages configuration]({{ "/assets/ss.png" | relative-url }})
 
 ## Commands:
 * Test: `jekyll serve`
