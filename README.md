@@ -5,7 +5,7 @@ This template is a template that combines scss with Jekyll. This will be used fo
 ## Cloning
 Run:
 - On Windows:
-    ```
+    ```bash
     git clone https://github.com/MrurBo/Template-Website/
     rename Template-Website/ (your-repo-name)/
     cd (your-repo-name)/
@@ -16,7 +16,7 @@ Run:
     git push origin main
     ```
 - On Linux:
-    ```
+    ```bash
     git clone https://github.com/MrurBo/Template-Website/
     mv Template-Website/ (your-repo-name)/
     cd (your-repo-name)/
